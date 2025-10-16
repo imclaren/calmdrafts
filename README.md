@@ -1,4 +1,4 @@
-# CalmDrafts
+# calmdrafts
 
 *** Alpha - Use at your own risk! ***
 
