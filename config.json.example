@@ -1,0 +1,6 @@
+{
+  "check_interval": "1h",
+  "cleanup_age": "168h",
+  "credentials_path": "credentials.json",
+  "token_path": "token.json"
+}
