@@ -1,6 +1,6 @@
 # CalmDrafts
 
-Alpha - Use at your own risk!
+*** Alpha - Use at your own risk! ***
 
 A Go application that helps you manage your Gmail drafts by:
 - Periodically notifying you about drafts in your Gmail
